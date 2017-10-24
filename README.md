@@ -1,6 +1,6 @@
-# neo4jDemo
+# neo4jDemo with koa2.0
 
-This is for testing of neo4j.
+This is for testing of neo4j with koa2.0.
 
 step
 1. install neo4j
